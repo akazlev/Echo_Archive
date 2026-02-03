@@ -83,6 +83,4 @@ All content may be used under Creative Commons Attribution 4.0 (CC-BY 4.0), unle
 ---
 
 **Maintained by:**  
-M. Alan Kazlev & the Symnoēsis Archive  
-More: https://machinesoflovinggrace.org (forthcoming)
-
+M. Alan Kazlev & the Symnoēsis Archive
